@@ -1,5 +1,5 @@
-opensonora
-==========
+opensonora alpha
+================
 
 OpenSonora Alpha is a high efficiency class-D, low-power bluetooth
 wireless speaker that follows a non-conventional design.
@@ -34,8 +34,22 @@ other obstacles
 
 Power: 5V 2A power supply. Can be powered via USB.
 
+Files & Folders
+---------------
+'sources' folder includes all sources:
+* 'opensonora-3d-model-v.*.3dm' is the 3D model of the case
+* 'opensonora-guide-v.*.odt' is a practical guide about how to build opensonora
+* 'opensonora-pcb-layout-v.*.svg' are different versions of the PCB (with/without components, type A or type B)
+
+'pics' folder includes some pictures of the real-life model. 
+* As of 06/05/2014, picture refers to a preliminary model, previous to v.0.1.
+
+General files:
+* 'opensonora-guide-v.*.pdf': in root folder, is the PDF-versione of the ODT source placed in sources folder
+* 'readme.md': readme file
+
 License
-------
+-------
 
 The documentation of this project is released under a [Creative Commons
 Attribution Share Alike 4.0 International
