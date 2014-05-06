@@ -6,9 +6,9 @@ wireless speaker that follows a non-conventional design.
 
 OpenSonora Alpha sports bottom-facing speakers to produce a distributed
 sound effect. Moreover, its design allows to use the top plate as a sort
-of a shelf, which can be usefull f.eg. If it's placed on a on a desktop.
+of a shelf, which can be usefull f.eg. If it`s placed on a on a desktop.
 
-If the sound quality does not meet your taste though, it's possible to
+If the sound quality does not meet your taste though, it`s possible to
 rotate OpenSonora and use it as a standard shelf speaker.
 
 In it original implementation, OpenSonora uses reused/regenerated
@@ -36,17 +36,17 @@ Power: 5V 2A power supply. Can be powered via USB.
 
 Files & Folders
 ---------------
-'sources' folder includes all sources:
-* 'opensonora-3d-model-v.*.3dm' is the 3D model of the case
-* 'opensonora-guide-v.*.odt' is a practical guide about how to build opensonora
-* 'opensonora-pcb-layout-v.*.svg' are different versions of the PCB (with/without components, type A or type B)
+`sources` folder includes all sources:
+* `opensonora-3d-model-v.*.3dm` is the 3D model of the case
+* `opensonora-guide-v.*.odt` is a practical guide about how to build opensonora
+* `opensonora-pcb-layout-v.*.svg` are different versions of the PCB (with/without components, type A or type B)
 
-'pics' folder includes some pictures of the real-life model. 
+`pics` folder includes some pictures of the real-life model. 
 * As of 06/05/2014, picture refers to a preliminary model, previous to v.0.1.
 
 General files:
-* 'opensonora-guide-v.*.pdf': in root folder, is the PDF-versione of the ODT source placed in sources folder
-* 'readme.md': readme file
+* `opensonora-guide-v.*.pdf`: in root folder, is the PDF-versione of the ODT source placed in sources folder
+* `readme.md`: readme file
 
 License
 -------
